@@ -11,6 +11,7 @@
 - gateway: ground stations which help receive/transmite data from/to satellite
 - antenna with transceiver (transmit + receive)
 - Other: Modem
+-HUB:a proccesor, in the middle of star topology
 
 ## 2. How they interact
 
