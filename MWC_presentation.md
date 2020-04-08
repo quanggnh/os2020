@@ -11,8 +11,9 @@
 - gateway: ground stations which help receive/transmite data from/to satellite
 - antenna with transceiver (transmit + receive)
 - Other: Modem
--HUB:a proccesor, in the middle of star topology
-
+- HUB: Generally, the hub is a large earth station (antenna size from a few meters to more than 10 m)
+with higher EIRP and G/T than the other earth stations in the network.
+ 
 ## 2. How they interact
 
 - Processed request from gateway server modulated into signal -> Satellite -> subscriber terminal and demodulates and vice versa. (*Insert an diagram :P)
